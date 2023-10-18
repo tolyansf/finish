@@ -1,6 +1,6 @@
 [servers]
-ub-1.my ansible_ssh_host=101.160.151.10
-ub-2.my ansible_ssh_host=101.160.151.20
+ub-1.my ansible_ssh_host=158.160.19.199
+ub-2.my ansible_ssh_host=10.129.0.6
 [web]
 ub-1.my
 [checker]
